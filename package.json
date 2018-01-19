@@ -1,0 +1,25 @@
+{
+  "name": "postgraphile-plugin-connection-multi-tenant",
+  "version": "0.0.2",
+  "description": "Filtering Connections in PostGraphile by Tenants",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deden/postgraphile-plugin-connection-multi-tenant.git"
+  },
+  "keywords": [
+    "graphile",
+    "postgraphile",
+    "postgraphql",
+    "plugin"
+  ],
+  "author": "Deden Ramadhan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deden/postgraphile-plugin-connection-multi-tenant/issues"
+  },
+  "homepage": "https://github.com/deden/postgraphile-plugin-connection-multi-tenant#readme"
+}
