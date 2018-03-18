@@ -3,7 +3,7 @@ Filtering Connections in PostGraphile by Tenants
 
 ## Disclaimer & Compatibility
 
-This plugin still in very alpha version. It targets the alpha release of PostGraphile v4.
+This plugin targets the beta release of PostGraphile v4.
 
 Bug reports and pull requests are very much welcome.
 
@@ -60,7 +60,7 @@ app.listen(5000);
 
 ## Plugin Options
 
-When using PostGraphile as a library, the following plugin options can be passed via `graphileBuildOptions` (called `graphqlBuildOptions` in PostGraphile 4.0.0-alpha2.20 and earlier):
+When using PostGraphile as a library, the following plugin options can be passed via `graphileBuildOptions`:
 
 ### tenantColumnName
 Target column :
